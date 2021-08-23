@@ -11,9 +11,8 @@ I am a [Postdoctoral Fellow](https://services.iqc.uwaterloo.ca/people/profile/a2
 
 Recent updates
 ======
-
-### _New paper!_ [Computing partition functions in the one-clean-qubit model](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.103.032422)
 ##### Mar 17, 2021
+### _New paper!_ [Computing partition functions in the one-clean-qubit model](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.103.032422)
 The one-clean-qubit model dates back to the early days of quantum computing. It was used to show that the an NMR quantum information processor can give computational advantage over classical computers, despite having very little to no entanglement. We give an algorithm to compute partition functions of quantum Hamiltonians in this model, and argue that it can lead to polynomial speed-ups in certain cases.
 One of our main technical contributions here is a general-purpose classical algorithm to estimate quantities within multiplicative error. Given a procedure to estimate a quantity within adjustable additive error, our algorithm can simply iterate this multiple times and return a multiplicative estimate.
 

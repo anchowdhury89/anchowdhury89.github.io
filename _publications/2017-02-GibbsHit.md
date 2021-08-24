@@ -1,7 +1,7 @@
 ---
 title: "Quantum algorithms for Gibbs sampling and hitting-time estimation"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/2017-02-GibbsHit
 excerpt: 'We present quantum algorithms for solving two problems regarding stochastic processes, namely preparing the Gibbs state of a quantum Hamiltonian and estimating the hitting-time of a Markov chain.'
 date: 2017-02-01
 venue: 'Quantum Information and Computation (Rinton Press)'

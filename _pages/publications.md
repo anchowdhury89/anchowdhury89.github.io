@@ -20,4 +20,4 @@ Peer-reviewed publications
 
 ArXiv preprints
 ======
-{% include arxivwidget.html %}
+{% include arxiv-widget.html %}

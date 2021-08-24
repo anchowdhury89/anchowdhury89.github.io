@@ -11,7 +11,7 @@ I am a [Postdoctoral Fellow](https://services.iqc.uwaterloo.ca/people/profile/a2
 
 Updates
 ======
-##### Mar 17, 2021 ### _New paper!_ [Computing partition functions in the one-clean-qubit model](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.103.032422)
+### Mar 17, 2021: _New paper!_ [Computing partition functions in the one-clean-qubit model](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.103.032422)
 The one-clean-qubit model dates back to the early days of quantum computing. It was used to show that the an NMR quantum information processor can give computational advantage over classical computers, despite having very little to no entanglement. We give an algorithm to compute partition functions of quantum Hamiltonians in this model, and argue that it can lead to polynomial speed-ups in certain cases.
 One of our main technical contributions here is a general-purpose classical algorithm to estimate a quantity within multiplicative error. Given a procedure to estimate a quantity within adjustable additive error, our algorithm can simply iterate this multiple times and get a multiplicative estimate.
 
@@ -19,7 +19,7 @@ I gave a talk about this work at TQC 2020 and the recording can be found [here](
 
 Academic history
 ======
-I got my PhD in 2019 from the University of New Mexico in Albuquerque, under the guidance of [Dr. Rolando Somma](https://sites.google.com/site/rolandodsom/). I was a part of the amazing [Center for Quantum Information and Control (CQuIC)](https://cquic.unm.edu/), one of the first research centers in quantum information science anywhere. I also spent some time working in the [Theoretical Division at Los Alamos National Laboratory](https://www.lanl.gov/org/ddste/aldsc/theoretical/index.php) as a Graduate Research Assistant. 
+I got my PhD in 2019 from the University of New Mexico in Albuquerque, under the guidance of [Dr. Rolando Somma](https://sites.google.com/site/rolandodsom/). I was a part of the amazing [Center for Quantum Information and Control (CQuIC)](https://cquic.unm.edu/), one of the first research centers in quantum information science anywhere. I also spent some time working in the [Theoretical Division at Los Alamos National Laboratory](https://www.lanl.gov/org/ddste/aldsc/theoretical/index.php) as a Graduate Research Assistant.
 
 During my PhD, I got to spend a wonderful three months interning at Microsoft Quantum in Redmond, where I worked with [Nathan Wiebe](https://cqiqc.physics.utoronto.ca/people/nathan-wiebe/) on variational quantum algorithms.
 

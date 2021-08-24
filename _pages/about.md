@@ -16,14 +16,15 @@ Updates
 The one-clean-qubit model dates back to the early days of quantum computing. It was used to show that the an NMR quantum information processor can give computational advantage over classical computers, despite having very little to no entanglement. We give an algorithm to compute partition functions of quantum Hamiltonians in this model, and argue that it can lead to polynomial speed-ups in certain cases.
 One of our main technical contributions here is a general-purpose classical algorithm to estimate a quantity within multiplicative error. Given a procedure to estimate a quantity within adjustable additive error, our algorithm can simply iterate this multiple times and get a multiplicative estimate.
 
-I gave a talk about this paper at TQC 2020 and the recording can be found [here](https://www.youtube.com/watch?v=sc_rWyCVZRY&t=17161s) (starts at 4:46:00).
+I gave a talk about this paper at TQC 2020, which can be seen here.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sc_rWyCVZRY?start=17161" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Academic history
 ======
 I got a PhD in physics in 2019 from the University of New Mexico in Albuquerque, under the guidance of [Rolando Somma](https://sites.google.com/site/rolandodsom/). I was a part of the amazing [Center for Quantum Information and Control (CQuIC)](https://cquic.unm.edu/), one of the first research centers in quantum information science anywhere. I also spent a year working in the storied [Theoretical Division at Los Alamos National Laboratory](https://www.lanl.gov/org/ddste/aldsc/theoretical/index.php) as a Graduate Research Assistant.
 
-Rolando and I contributed to some of the early work in using series approximations, quantum amplitude amplification, and block-encoding techniques to implement matrix functions on quantum computers. This led to improvements in the theoretical cost of quantum algorithms for, e.g., [preparing thermal states on quantum computers](https://arxiv.org/abs/1603.02940). We showed similar improvements in the number of gates and qubits needed to implement other algorithms for quantum state-preparation and speeding up Markov chains. We also came up with a quantum algorithm to estimate the hitting-time of a Markov chain.  
-All of this can be found in my PhD dissertation - ["Quantum Algorithms with Applications to Simulating Physical Systems"](https://digitalrepository.unm.edu/phyc_etds/229/).
+My PhD research contributed to some of the early work in using series approximations, quantum amplitude amplification, and block-encoding techniques to implement matrix functions on quantum computers. This led to new and improved quantum algorithms for, e.g., [preparing thermal states on quantum computers](https://arxiv.org/abs/1603.02940). We showed similar improvements in the number of gates and qubits needed to implement other algorithms for quantum state-preparation and speeding up Markov chains. We also came up with a quantum algorithm to estimate the hitting-time of a Markov chain.  
+All of this can be found in my dissertation - ["Quantum Algorithms with Applications to Simulating Physical Systems"](https://digitalrepository.unm.edu/phyc_etds/229/).
 
 During my PhD, I got to spend a wonderful three months interning at Microsoft Quantum in Redmond, where I worked with [Nathan Wiebe](https://cqiqc.physics.utoronto.ca/people/nathan-wiebe/) on variational quantum algorithms.
 

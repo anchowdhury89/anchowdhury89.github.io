@@ -23,10 +23,11 @@ ArXiv preprints
 
 <script type="text/javascript">
 <!--
-var arxiv_authorid = "http://arxiv.org/a/narayanchowdhury_a_1";
+var arxiv_authorid="http://arxiv.org/a/narayanchowdhury_a_1";
+var arxiv_format="arxiv";
+var arxiv_max_entries=0;       //show all articles
+var arxiv_includeSummary=1;    //show abstracts (default is 0)
+var arxiv_includeComments=0;   //do not show comments (default is 1)
 //--></script>
-<style type="text/css">
-div.arxivfeed {margin-bottom: 5px; width:700px;}
-</style>
-<script type="text/javascript" src="https://arxiv.org/js/myarticles.js"></script>
-<div id="arxivfeed"></div>
+<script type="text/javascript" src="http://arxiv.org/js/myarticles.js"></script>
+<div id="arxivfeed">[Loading myarticles...]</div>

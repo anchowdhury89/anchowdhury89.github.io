@@ -11,6 +11,18 @@ author_profile: true
 
 {% include base_path %}
 
+Peer-reviewed publications
+======
+
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+ArXiv preprints
+======
+
+<script type="text/javascript">
+<!--
+var arxiv_authorid = "narayanchowdhury_a_1";
+//--></script>
+<script type="text/javascript" src="https://arxiv.org/js/myarticles.js"></script>

@@ -28,6 +28,9 @@ var arxiv_format="arxiv";
 var arxiv_max_entries=0;       //show all articles
 var arxiv_includeSummary=1;    //show abstracts (default is 0)
 var arxiv_includeComments=0;   //do not show comments (default is 1)
-//--></script>
-<script type="text/javascript" src="http://arxiv.org/js/myarticles.js"></script>
-<div id="arxivfeed">[Loading myarticles...]</div>
+//-->
+</script>
+<script type="text/javascript" src="http://arxiv.org/js/myarticles.js">
+</script>
+<div id="arxivfeed"><
+/div>

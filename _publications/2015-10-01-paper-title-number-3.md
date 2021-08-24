@@ -1,15 +1,16 @@
 ---
-title: "Paper Title Number 3"
+title: "Computing partition functions in the one-clean-qubit model"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/2021Mar-partition-function-one-clean-qubit
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+date: 2021-03-17
+venue: 'Physical Review A'
+paperurl: 'https://journals.aps.org/pra/abstract/10.1103/PhysRevA.103.032422'
+citation: 'Anirban N. Chowdhury, Rolando D. Somma, and Yiğit Subaşı, Computing partition functions in the one-clean-qubit model,
+Phys. Rev. A 103, 032422 (2021)'
 ---
 This paper is about the number 3. The number 4 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[arXiv version here](https://arxiv.org/abs/1910.11842)
 
 Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).

@@ -16,8 +16,9 @@ Updates
 The one-clean-qubit model dates back to the early days of quantum computing. It was used to show that the an NMR quantum information processor can give computational advantage over classical computers, despite having very little to no entanglement. We give an algorithm to compute partition functions of quantum Hamiltonians in this model, and argue that it can lead to polynomial speed-ups in certain cases.
 One of our main technical contributions here is a general-purpose classical algorithm to estimate a quantity within multiplicative error. Given a procedure to estimate a quantity within adjustable additive error, our algorithm can simply iterate this multiple times and get a multiplicative estimate.
 
-I gave a talk about this paper at TQC 2020, which can be seen here.
+I gave a talk about this paper at TQC 2020, linked below.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sc_rWyCVZRY?start=17161" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 Academic history
 ======

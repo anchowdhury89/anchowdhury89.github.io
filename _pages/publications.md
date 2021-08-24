@@ -18,11 +18,9 @@ Peer-reviewed publications
   {% include archive-single.html %}
 {% endfor %}
 
-ArXiv preprints
+Preprints
 ======
 
-https://arxiv.org/a/narayanchowdhury_a_1.html
-
-
+[https://arxiv.org/a/narayanchowdhury_a_1.html](https://arxiv.org/a/narayanchowdhury_a_1.html)
 
 {% include arxiv-widget.html %}

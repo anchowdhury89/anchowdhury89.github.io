@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a [Postdoctoral Fellow](https://services.iqc.uwaterloo.ca/people/profile/a2chnara/) in the Institute for Quantum Computing at the University of Waterloo. My research interests are in quantum algorithms and complexity, mostly pertaining to the simulation of quantum systems. Recently, I have also been looking into classical approximation algorithms for quantum many-body systems, property-testing and error-mitigation for near-term quantum devices. My postdoc supervisor is [David Gosset](http://www.davidgosset.com/). Even though a physicist by training, officially I am affiliated with the [Department of Combinatorics and Optimization](https://uwaterloo.ca/combinatorics-and-optimization/).
+I am a [Postdoctoral Fellow](https://services.iqc.uwaterloo.ca/people/profile/a2chnara/) in the Institute for Quantum Computing at the University of Waterloo. My research interests are in quantum algorithms and complexity, mostly pertaining to the simulation of quantum systems. Recently, I have also been looking into classical approximation algorithms for quantum many-body systems, property-testing and error-mitigation for near-term quantum devices. My postdoc supervisor is [David Gosset](http://www.davidgosset.com/). Even though a physicist by training, officially I am affiliated with the [Department of Combinatorics and Optimization](https://uwaterloo.ca/combinatorics-and-optimization/). I have a PhD in physics from the [University of New Mexico](www.unm.edu).
 
 Updates
 ======
@@ -23,7 +23,7 @@ I gave a talk about this paper at TQC 2020, linked below.
 
 Academic history
 ======
-I got a PhD in physics in 2019 from the University of New Mexico in Albuquerque, under the guidance of [Rolando Somma](https://sites.google.com/site/rolandodsom/). I was a part of the amazing [Center for Quantum Information and Control (CQuIC)](https://cquic.unm.edu/), one of the first research centers in quantum information science anywhere. I also spent a year working in the storied [Theoretical Division at Los Alamos National Laboratory](https://www.lanl.gov/org/ddste/aldsc/theoretical/index.php) as a Graduate Research Assistant.
+I got a PhD in 2019 from the University of New Mexico in Albuquerque, under the guidance of [Rolando Somma](https://sites.google.com/site/rolandodsom/). I was a part of the amazing [Center for Quantum Information and Control (CQuIC)](https://cquic.unm.edu/), one of the first research centers in quantum information science anywhere. I also spent a year working at the storied [Theoretical Division at Los Alamos National Laboratory](https://www.lanl.gov/org/ddste/aldsc/theoretical/index.php) as a Graduate Research Assistant.
 
 My PhD research contributed to some of the early work in using series approximations, quantum amplitude amplification, and block-encoding techniques to implement matrix functions on quantum computers. This led to new and improved quantum algorithms for, e.g., [preparing thermal states on quantum computers](https://arxiv.org/abs/1603.02940). We showed similar improvements in the number of gates and qubits needed to implement other algorithms for quantum state-preparation and speeding up Markov chains. We also came up with a quantum algorithm to estimate the hitting-time of a Markov chain.  
 All of this can be found in my dissertation - ["Quantum Algorithms with Applications to Simulating Physical Systems"](https://digitalrepository.unm.edu/phyc_etds/229/).

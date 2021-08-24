@@ -21,10 +21,12 @@ Peer-reviewed publications
 ArXiv preprints
 ======
 
-<html>
 <script type="text/javascript">
 <!--
 var arxiv_authorid = "http://arxiv.org/a/narayanchowdhury_a_1";
 //--></script>
+<style type="text/css">
+div.arxivfeed {margin-bottom: 5px; width:700px;}
+</style>
 <script type="text/javascript" src="https://arxiv.org/js/myarticles.js"></script>
-</html>
+<div id="arxivfeed"></div>

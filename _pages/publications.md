@@ -20,7 +20,7 @@ Peer-reviewed publications
 
 ArXiv preprints
 ======
-{%
+
 <script type="text/javascript">
   <!--
     var arxiv_authorid="http://arxiv.org/a/narayanchowdhury_a_1";
@@ -34,4 +34,3 @@ ArXiv preprints
 </script>
 <div id="arxivfeed">
 </div>
-%}

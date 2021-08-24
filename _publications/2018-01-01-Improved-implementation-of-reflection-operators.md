@@ -2,8 +2,12 @@
 title: "Improved implementation of reflection operators"
 collection: pre-prints
 permalink: /pre-prints2018-01-01-Improved-implementation-of-reflection-operators
+excerpt: '1803.02466'
 date: 2018-01-01
 venue: 'arXiv'
+paperurl: 'https://arxiv.org/abs/1803.02466'
 citation: ' Anirban Chowdhury,  Yigit Subasi,  Rolando Somma, &quot;Improved implementation of reflection operators.&quot; arXiv, 2018.'
 ---
-Use [Google Scholar](https://scholar.google.com/scholar?q=Improved+implementation+of+reflection+operators){:target="_blank"} for full citation
+1803.02466
+
+[Access paper here](https://arxiv.org/abs/1803.02466){:target="_blank"}

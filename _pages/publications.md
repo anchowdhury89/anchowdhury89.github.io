@@ -32,5 +32,5 @@ var arxiv_includeComments=0;   //do not show comments (default is 1)
 </script>
 <script type="text/javascript" src="http://arxiv.org/js/myarticles.js">
 </script>
-<div id="arxivfeed"><
-/div>
+<div id="arxivfeed">
+</div>

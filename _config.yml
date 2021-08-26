@@ -10,7 +10,7 @@ locale                   : "en-CA"
 title                    : "Anirban Narayan Chowdhury"
 title_separator          : "-"
 name                     : &name "Anirban Narayan Chowdhury"
-description              : &description "Quantum physicist, interested in quantum simulations, algorithms and complexity. Currently a postdoc at University of Waterloo"
+description              : &description "Quantum theorist, interested in quantum simulations, algorithms and complexity. Currently a postdoc at University of Waterloo"
 url                      : https://anchowdhury89.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "anchowdhur89/anchowdhury89.github.io"
@@ -48,6 +48,7 @@ staticman:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
   path                   : # blank (default) uses feed.xml
+theme: minimal-mistakes-jekyll
 
 # SEO Related
 google_site_verification :

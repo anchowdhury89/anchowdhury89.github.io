@@ -82,10 +82,11 @@ analytics:
 author:
   name             : "Anirban Chowdhury"
   avatar           : "display_pic.jpg"
-  bio              : "Quantum theorist, postdoc at IQC"
+  bio              : "Postdoc @IQC"
   location         : "Waterloo, ON, Canada"
   employer         : "University of Waterloo"
   googlescholar    : "https://scholar.google.com/citations?user=J_YlQ2oAAAAJ&hl=en"
+  semanticscholar  : "Anirban-Narayan-Chowdhury/46860824"
   email            : "anchowdhury@outlook.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -108,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "anchowdhury13"
+  twitter          :
   vine             :
   weibo            :
   xing             :

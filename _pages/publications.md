@@ -17,6 +17,10 @@ Publications
 Preprints
 ======
 
-[https://arxiv.org/a/narayanchowdhury_a_1.html](https://arxiv.org/a/narayanchowdhury_a_1.html)
+{% for post in site.preprints reversed %}
+  {% include preprints-single.html %}
+{% endfor %}
+
+[https://arxiv.org/a/narayanchowdhury_a_1.html](arXiv page)
 
 {% include arxiv-widget.html %}

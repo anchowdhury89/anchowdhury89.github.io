@@ -5,6 +5,7 @@ permalink: /pre-prints2023-01 01-Relaxations-and-Exact-Solutions-to-Quantum-Max-
 authors: ' Adam Watts,  Anirban Chowdhury,  Aidan Epperly,  J. Helton,  Igor Klep, '
 year: 2023
 venue: 'arXiv'
-volpages: ''
-citation: ' Adam Watts,  Anirban Chowdhury,  Aidan Epperly,  J. Helton,  Igor Klep,  arXiv,  (2023).'
+details: '2307.15661 [quant-ph]'
+paperurl: 'https://arxiv.org/abs/2307.15661'
+citation: ' Adam Watts,  Anirban Chowdhury,  Aidan Epperly,  J. Helton,  Igor Klep,  arXiv 2307.15661 [quant-ph] (2023).'
 ---

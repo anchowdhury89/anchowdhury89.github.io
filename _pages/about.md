@@ -22,6 +22,7 @@ I gave a talk about this paper at TQC 2020, linked below.
 <iframe width="480" height="270" src="https://www.youtube.com/embed/sc_rWyCVZRY?start=17161" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
 &nbsp;  
+
 Academic history
 ======
 Before joining IQC, I did a brief postdoc at the Universit&#x00E9; de Sherbrooke in the group of David Poulin.

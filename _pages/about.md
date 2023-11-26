@@ -41,6 +41,6 @@ Further back
 ======
 I graduated in 2013 from the [Indian Institute of Science Education and Research (IISER) Pune](https://www.iiserpune.ac.in/) with a Bachelors and Masters degree.
 
-I took an interest in relativity and high-energy physics back then. My first published paper is in theoretical astrophysics - a result of two great months spent at the Tata Institute of Fundamental Research in the group of [Pankaj Joshi](https://web.tifr.res.in/~psj/).
+I took an interest in relativity and high-energy physics back then. My first published paper is in theoretical astrophysics - a result of two great months spent at the Tata Institute of Fundamental Research in the group of [Pankaj Joshi](https://en.wikipedia.org/wiki/Pankaj_Joshi_(physicist)).
 
 I had my first brush with quantum information and computation at IISER, thanks to a course taught by [T. S. Mahesh](http://www.iiserpune.ac.in/~mahesh.ts/homepage.htm). I ended up writing a Masters thesis on ["Quantum measurements with post-selection"](http://dr.iiserpune.ac.in:8080/xmlui/handle/123456789/255).

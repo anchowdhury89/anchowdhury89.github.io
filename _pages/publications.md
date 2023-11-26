@@ -11,10 +11,11 @@ Preprints
 ======
 
 {% for post in site.preprints reversed %}
-  {% include preprints-single.html %}
+  #### {{ post.title }}
+  {{ post.citation }}
 {% endfor %}
 
-
+</br>
 Published articles
 ======
 

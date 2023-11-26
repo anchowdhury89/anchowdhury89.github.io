@@ -13,8 +13,8 @@ Preprints
 {% for post in site.preprints reversed %}
   {% include preprints-single.html %}
 {% endfor %}
+  
 
-</br>
 Published articles
 ======
 

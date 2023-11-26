@@ -14,7 +14,8 @@ Preprints
   {% include preprints-single.html %}
 {% endfor %}
 
-Publications
+
+Published articles
 ======
 
 {% for post in site.publications reversed %}

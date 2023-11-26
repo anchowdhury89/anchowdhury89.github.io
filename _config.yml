@@ -176,10 +176,10 @@ kramdown:
 # Collections
 collections:
 #  teaching:
-#    output: true
+#    output: false
 #    permalink: /:collection/:path/
   publications:
-    output: true
+    output: false
     permalink: /:collection/:path/
 #  portfolio:
 #    output: true
@@ -188,7 +188,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   preprints:
-    output: true
+    output: false
     permalintk: /:collection/:path/
 
 

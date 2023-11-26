@@ -20,7 +20,7 @@ Published articles
 ======
 
 {% for post in site.publications reversed %}
-   {% include publications-single.html %}
+  {% include publications-single.html %}
 {% endfor %}
 
 ***

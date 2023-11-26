@@ -1,9 +1,22 @@
-title	type	url_slug	venue	date	location	talk_url	description
-Computing partition functions with one clean qubit	Invited seminar	bristol_21	University of Bristol	2021-03-31	"Bristol, UK (remote)"		
-Simulating thermal physics on quantum computers	Invited seminar	waterloo_20	University of Waterloo	2021-03-12	"Waterloo, ON, Canada"		
-Computing partition functions with one clean qubit	Conference talk	tqc_20	"Theory of Quantum Computation, Communication and Crytography 2020"	2020-06-10	"Riga, Latvia (remote)"	https://www.youtube.com/watch?v=sc_rWyCVZRY&t=17161s	
-Simulating thermal physics on quantum computers	Conference talk	intriq_19	INTRIQ Fall meeting	2019-11-11	"Bromont, QC, Canada"	"https://www.intriq.org/index.php?mact=News,cntnt01,detail,0&cntnt01articleid=49&cntnt01detailtemplate=INTRIQ_Details_article&cntnt01returnid=33"	
-Improved quantum simulation algorithms using a linear combination of unitaries	Invited seminar	lanl_19	Los Alamos National Laboratory	2019-08-22	"Los Alamos, NM, USA"		
-Improved implementation of reflection operators	Conference talk	aps_19	American Physical Society March Meeting	2019-03-04	"Boston, MA, USA"	https://meetings.aps.org/Meeting/MAR19/Session/X28.1	
-Improved quantum algorithms using linear combination of unitaries	Conference talk	squint_18	Southwest Quantum Information and Technology Workshop	2018-02-23	"Santa Fe, NM, USA"	http://physics.unm.edu/SQuInT/2018/abstracts.php?person_id=710	
-Quantum algorithms for hitting-time estimation	Conference talk	aps_16	American Physical Society March meeting	2016-03-15	"Baltimore, MD, USA"	http://meetings.aps.org/Meeting/MAR16/Session/H44.12	
+title	type	url_slug	venue	date	location	talk_url	description	video_url
+Quantum counting and the symmetric group	Invited seminar	ipam_23	Institute of Pure and Applied Mathematics UCLA	11/14/2023	"Los Angeles, USA (remote)"	https://www.ipam.ucla.edu/abstract/?tid=19958		
+Approximation algorithms for dense quantum Hamiltonians using convex relaxations	Invited seminar	cno_23	University of Waterloo	6/5/2023	"Waterloo, Canada"	https://uwaterloo.ca/combinatorics-and-optimization/events/ura-seminar-anirban-chowdhury		
+Quantum Hamiltonian Complexity in thermal equilibrium	Invited seminar	iiser_23	Indian Institute of Science Education and Research Pune	5/25/2023	"Pune, India"	https://www.iiserpune.ac.in/events/3561/quantum-hamiltonian-complexity-in-thermal-equilibrium		
+Quantum simulation and complexity of thermal physics	Invited seminar	vt_23	Virginia Tech	2/27/2023	"Blacksburg, USA"			
+Quantum computing for quantum physics and beyond	Invited seminar	ets_22	Ecole de Technologie (ETS) Montreal	12/9/2023	"Montreal, Canada"			
+Quantum and classical algorithms for trace-estimation	Conference talk	squint_22	Southwest Quantum Information and Technology Workshop	10/21/2022	"Berkeley, USA"	https://physics.unm.edu/SQuInT/2022/program.php		
+On the complexity of quantum partition functions	Conference talk	tqc_22	"Theory of Quantum Computation, Communication and Crytography 2022"	7/12/2022	"Champaign, Illinois"	https://tqc2022-conference.iquist.illinois.edu/program/		https://youtu.be/j1jlPPKBvNc?t=4260
+Complexity of approximating quantum many-body physics in thermal equilibrium	Invited seminar	iff_22	The Institute for Fundamental Study	3/25/2022	"Phitsanulok, Thailand (remote)"	https://www.if.nu.ac.th/if-colloquium-no-7-complexity-of-approximating-quantum-many-body-physics-in-thermal-equilibrium/		https://www.youtube.com/watch?v=PYqOUT5QDuo
+Approximating quantum many-body physics in thermal equilibrium	Invited seminar	tii_22	Technology Innovation Institute	3/17/2022	"Abu Dhabi, UAE"			
+On the complexity of quantum partition functions	Conference talk	qip_22	 Quantum Information Processing 2022	3/11/2022	"Pasadena, USA"			https://www.youtube.com/watch?v=OS2_w0wwKW0
+Approximating the free energy of dense quantum Hamiltonians using convex relaxations	Invited seminar	lanl_22	Los Alamos National Laboratory 	2/10/2022	"Los Alamos, USA (remote)"			
+Approximating the free energy of dense quantum Hamiltonians using convex relaxations	Invited seminar	unm_22	University of New Mexico	2/3/2022	"Albuquerque, USA (remote)"			
+Classical and quantum algorithms for estimating traces and partition functions	Invited talk	ipam_22	IPAM Workshop on Quantum Numerical Linear Algebra	1/26/2022	"Los Angeles, USA (remote)"	https://www.youtube.com/watch?v=xiwpH9i3m5g		https://www.youtube.com/watch?v=xiwpH9i3m5g
+Computing partition functions with one clean qubit	Invited seminar	bristol_21	University of Bristol	3/31/2021	"Bristol, UK (remote)"	https://www.ipam.ucla.edu/programs/workshops/quantum-numerical-linear-algebra/?tab=schedule		
+Simulating thermal physics on quantum computers	Invited seminar	waterloo_20	University of Waterloo	3/12/2021	"Waterloo, Canada"			
+Computing partition functions with one clean qubit	Conference talk	tqc_20	"Theory of Quantum Computation, Communication and Crytography 2020"	6/10/2020	"Riga, Latvia (remote)"	https://tqc2020.lu.lv/tuesday/		https://www.youtube.com/watch?v=sc_rWyCVZRY&t=17161s
+Simulating thermal physics on quantum computers	Conference talk	intriq_19	INTRIQ Fall meeting	11/11/2019	"Bromont, Canada"	https://www.intriq.org/events/rencontre-automnale-2019-de-lintriq		
+Improved quantum simulation algorithms using a linear combination of unitaries	Invited seminar	lanl_19	Los Alamos National Laboratory	8/22/2019	"Los Alamos, USA"			
+Improved implementation of reflection operators	Conference talk	aps_19	American Physical Society March Meeting	3/4/2019	"Boston, USA"	https://meetings.aps.org/Meeting/MAR19/Session/X28.1		
+Improved quantum algorithms using linear combination of unitaries	Conference talk	squint_18	Southwest Quantum Information and Technology Workshop	2/23/2018	"Santa Fe, USA"	http://physics.unm.edu/SQuInT/2018/abstracts.php?person_id=710		
+Quantum algorithms for hitting-time estimation	Conference talk	aps_16	American Physical Society March meeting	3/15/2016	"Baltimore, USA"	http://meetings.aps.org/Meeting/MAR16/Session/H44.12		

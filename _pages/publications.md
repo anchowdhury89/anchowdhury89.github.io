@@ -17,7 +17,7 @@ Publications
 Preprints
 ======
 
-{% for post in site.publications reversed %}
+{% for post in site.preprints reversed %}
   {% include preprints-single.html %}
 {% endfor %}
 

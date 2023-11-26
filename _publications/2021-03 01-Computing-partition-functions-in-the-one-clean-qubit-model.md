@@ -7,5 +7,5 @@ year: 2021
 venue: 'Phys. Rev. A'
 volpages: ' 103 032422'
 paperurl: 'https://link.aps.org/doi/10.1103/PhysRevA.103.032422'
-citation: 'Anirban Chowdhury, Rolando Somma, Yigit Subasi,  Phys. Rev. A,  103 032422 (2021).'
+citation: 'Anirban Chowdhury, Rolando Somma, Yigit Subasi,  Phys. Rev. A  103 032422 (2021).'
 ---

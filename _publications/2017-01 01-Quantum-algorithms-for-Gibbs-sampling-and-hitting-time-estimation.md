@@ -7,5 +7,5 @@ year: 2017
 venue: 'Quant. Inf. Comp.'
 volpages: ' 17 1-2 41--64'
 paperurl: 'https://doi.org/10.26421/QIC17.1-2-3'
-citation: 'Anirban Chowdhury, Rolando Somma,  Quant. Inf. Comp.,  17 1-2 41--64 (2017).'
+citation: 'Anirban Chowdhury, Rolando Somma,  Quant. Inf. Comp.  17 1-2 41--64 (2017).'
 ---

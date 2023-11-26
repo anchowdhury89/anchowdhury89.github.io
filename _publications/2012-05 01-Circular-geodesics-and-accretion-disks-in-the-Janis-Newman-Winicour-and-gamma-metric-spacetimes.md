@@ -7,5 +7,5 @@ year: 2012
 venue: 'Phys. Rev. D'
 volpages: ' 85 104031'
 paperurl: 'https://link.aps.org/doi/10.1103/PhysRevD.85.104031'
-citation: 'Anirban Chowdhury, Mandar Patil, Daniele Malafarina, Pankaj Joshi,  Phys. Rev. D,  85 104031 (2012).'
+citation: 'Anirban Chowdhury, Mandar Patil, Daniele Malafarina, Pankaj Joshi,  Phys. Rev. D  85 104031 (2012).'
 ---

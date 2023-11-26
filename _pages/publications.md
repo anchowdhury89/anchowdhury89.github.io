@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 Preprints
-======
+-------
 
 {% for post in site.preprints reversed %}
   {% include preprints-single.html %}
@@ -17,7 +17,7 @@ Preprints
 <br/><br/>
 
 Published articles
-======
+--------
 
 {% for post in site.publications reversed %}
   {% include publications-single.html %}

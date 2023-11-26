@@ -12,9 +12,7 @@
   {% assign title = post.title %}
 {% endif %}
 
-<h3>
-  {{ title }}
-</h3>
+<strong>{{ title }}</strong><br>
 {% if post.collection == 'preprints' %}
-  {{ post.authors }} <br> <a href="{{ post.paperurl }}">{{ post.venue }} {{ post.details }} {{ post.year }}</a>
+  {{ post.authors }} <br> <a href="{{ post.paperurl }}">{{ post.venue }} {{ post.details }}</a> ({{ post.year }})
 {% endif %}

@@ -8,9 +8,10 @@ redirect_from:
   - /about.html
 ---
 I am a [Postdoctoral Fellow](https://services.iqc.uwaterloo.ca/people/profile/a2chnara/) in the Institute for Quantum Computing and the [Department of Combinatorics and Optimization](https://uwaterloo.ca/combinatorics-and-optimization/) at the University of Waterloo. I am broadly interested in quantum algorithms, quantum simulation, Hamiltonian complexity and classical simulation of quantum many-body systems. My postdoc supervisor is [David Gosset](http://www.davidgosset.com/). 
-I have a PhD in physics from the [University of New Mexico](www.unm.edu) where I was fortunate to be advised by [Rolando Somma](https://sites.google.com/site/rolandodsom/).
 
-Updates
+I have a PhD in physics from the [University of New Mexico](www.unm.edu) where I was fortunate to be advised by [Rolando Somma](https://sites.google.com/site/rolandodsom/). 
+
+<!-- Updates
 ======
 ### Mar 17, 2021: _New paper!_ [Computing partition functions in the one-clean-qubit model](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.103.032422) with Rolando Somma and Yigit Subasi.
 
@@ -18,13 +19,13 @@ The one-clean-qubit model dates back to the early days of quantum computing. It 
 One of our main technical contributions here is a general-purpose classical algorithm to estimate a quantity within multiplicative error. Given a procedure to estimate a quantity within adjustable additive error, our algorithm can simply iterate this multiple times and get a multiplicative estimate.
 
 I gave a talk about this paper at TQC 2020, linked below.
-<iframe width="480" height="270" src="https://www.youtube.com/embed/sc_rWyCVZRY?start=17161" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="480" height="270" src="https://www.youtube.com/embed/sc_rWyCVZRY?start=17161" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
 &nbsp;  
 
 Academic history
 ======
-Before joining IQC, I did a postdoc at the Universit&#x00E9; de Sherbrooke in the group of David Poulin.
+Before joining IQC, I did a brief postdoc at the Universit&#x00E9; de Sherbrooke in the group of David Poulin.
 
 I got my PhD in 2019 from the University of New Mexico in Albuquerque, under the guidance of [Rolando Somma](https://sites.google.com/site/rolandodsom/). I was a member of the [Center for Quantum Information and Control (CQuIC)](https://cquic.unm.edu/) and also spent a year working at the [Theoretical Division at Los Alamos National Laboratory](https://www.lanl.gov/org/ddste/aldsc/theoretical/index.php) as a Graduate Research Assistant.
 

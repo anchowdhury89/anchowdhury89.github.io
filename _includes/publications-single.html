@@ -22,7 +22,7 @@
 <a>{{ title }}</a>
 {% endif %} -->
 
-{% if post.collection == 'preprints' %}
+{% if post.collection == 'publications' %}
   <p> {{ post.authors }} </p>
   <p><a href="{{ post.paperurl }}">{{ post.venue }} {{ post.volpages }} {{ post.year }}</a></p>
 {% elsif post.date %}

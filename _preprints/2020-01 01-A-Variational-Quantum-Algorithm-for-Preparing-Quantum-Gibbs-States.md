@@ -1,7 +1,7 @@
 ---
 title: "A Variational Quantum Algorithm for Preparing Quantum Gibbs States"
-collection: pre-prints
-permalink: /pre-prints2020-01 01-A-Variational-Quantum-Algorithm-for-Preparing-Quantum-Gibbs-States
+collection: preprints
+permalink: /preprints/2020-01 01-A-Variational-Quantum-Algorithm-for-Preparing-Quantum-Gibbs-States
 authors: 'Anirban Chowdhury, Guang Hao Low, Nathan Wiebe, '
 year: 2020
 venue: 'arXiv'

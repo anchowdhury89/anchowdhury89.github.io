@@ -2,7 +2,7 @@
 title: "Quantum algorithms for Gibbs sampling and hitting-time estimation"
 collection: publications
 permalink: /publication/2017-01 01-Quantum-algorithms-for-Gibbs-sampling-and-hitting-time-estimation
-author: ' Anirban Chowdhury,  Rolando Somma, '
+authors: ' Anirban Chowdhury,  Rolando Somma, '
 year: 2017
 venue: 'Quant. Inf. Comp.'
 volpages: ' 17 1-2 41--64'

@@ -2,7 +2,7 @@
 title: "Quantum Hamiltonian complexity in thermal equilibrium"
 collection: publications
 permalink: /publication/2022-01 01-Quantum-Hamiltonian-complexity-in-thermal-equilibrium
-author: ' Sergey Bravyi,  Anirban Chowdhury,  David Gosset,  Pawel Wocjan, '
+authors: ' Sergey Bravyi,  Anirban Chowdhury,  David Gosset,  Pawel Wocjan, '
 year: 2022
 venue: 'Nature Physics'
 volpages: ' 18 1367--1370'

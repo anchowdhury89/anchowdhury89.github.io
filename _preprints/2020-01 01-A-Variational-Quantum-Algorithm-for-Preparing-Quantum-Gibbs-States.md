@@ -5,7 +5,7 @@ permalink: /preprints/2020-01 01-A-Variational-Quantum-Algorithm-for-Preparing-Q
 authors: 'Anirban Chowdhury, Guang Hao Low, Nathan Wiebe, '
 year: 2020
 venue: 'arXiv'
-details: '2002.00055 [quant-ph]'
+details: '2002.00055'
 paperurl: 'https://arxiv.org/abs/2002.00055'
 citation: 'Anirban Chowdhury, Guang Hao Low, Nathan Wiebe,  arXiv 2002.00055 (2020).'
 ---

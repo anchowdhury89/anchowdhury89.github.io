@@ -11,8 +11,7 @@ Preprints
 ======
 
 {% for post in site.preprints reversed %}
-  #### {{ post.title }}
-  {{ post.citation }}
+  {% include preprints-single.html %}
 {% endfor %}
 
 </br>

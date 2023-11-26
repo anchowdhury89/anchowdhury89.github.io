@@ -25,6 +25,6 @@ Published articles
 
 ***
 
-[arXiv author page](https://arxiv.org/a/narayanchowdhury_a_1.html)
+[arXiv author page](https://arxiv.org/a/narayanchowdhury_a_1.html){: .btn .btn--info}
 
 {% include arxiv-widget.html %}

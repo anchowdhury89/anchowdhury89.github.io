@@ -31,7 +31,7 @@ I got my PhD in 2019 from the University of New Mexico in Albuquerque, under the
 
 PhD dissertation - [Quantum Algorithms with Applications to Simulating Physical Systems](https://digitalrepository.unm.edu/phyc_etds/229/)
 
-During my PhD, I interned at Microsoft Quantum in Redmond, where I worked with [Nathan Wiebe](https://cqiqc.physics.utoronto.ca/people/nathan-wiebe/) on variational quantum algorithms.
+During my PhD, I interned at Microsoft Quantum in Redmond, where I worked with [Nathan Wiebe](https://scholar.google.com/citations?user=DSgKHOQAAAAJ&hl=en&oi=ao) on variational quantum algorithms.
 
 <!-- My PhD research contributed to some of the early work in using series approximations, quantum amplitude amplification, and block-encoding techniques to implement matrix functions on quantum computers. 
 This led to new and improved quantum algorithms for, e.g., [preparing thermal states on quantum computers](https://arxiv.org/abs/1603.02940). We showed similar improvements in the number of gates and qubits needed to implement other algorithms for quantum state-preparation and speeding up Markov chains. We also came up with a quantum algorithm to estimate the hitting-time of a Markov chain.  

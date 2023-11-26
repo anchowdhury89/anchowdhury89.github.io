@@ -7,5 +7,5 @@ year: 2022
 venue: 'arXiv'
 details: '2206.06886 [quant-ph]'
 paperurl: 'https://arxiv.org/abs/2206.06886'
-citation: 'Chen-Fu Chiang, Anirban Chowdhury, Pawel Wocjan,  arXiv 2206.06886 [quant-ph] (2022).'
+citation: 'Chen-Fu Chiang, Anirban Chowdhury, Pawel Wocjan,  arXiv 2206.06886 (2022).'
 ---

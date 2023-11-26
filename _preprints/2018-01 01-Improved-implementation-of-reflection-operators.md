@@ -7,5 +7,5 @@ year: 2018
 venue: 'arXiv'
 details: '1803.02466 [quant-ph]'
 paperurl: 'https://arxiv.org/abs/1803.02466'
-citation: 'Anirban Chowdhury, Yigit Subasi, Rolando Somma,  arXiv 1803.02466 [quant-ph] (2018).'
+citation: 'Anirban Chowdhury, Yigit Subasi, Rolando Somma,  arXiv 1803.02466 (2018).'
 ---

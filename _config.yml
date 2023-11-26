@@ -186,6 +186,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  preprints:
+    output: true
+    permalintk: /:collection/:path/
 
 
 # Defaults

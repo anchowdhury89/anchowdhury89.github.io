@@ -21,6 +21,6 @@ Preprints
   {% include preprints-single.html %}
 {% endfor %}
 
-[https://arxiv.org/a/narayanchowdhury_a_1.html](arXiv page)
+[arXiv page](https://arxiv.org/a/narayanchowdhury_a_1.html)
 
 {% include arxiv-widget.html %}

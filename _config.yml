@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-CA"
-title                    : "Anirban Narayan Chowdhury"
+title                    : "Anirban Chowdhury"
 title_separator          : "-"
-name                     : &name "Anirban Narayan Chowdhury"
+name                     : &name "Anirban Chowdhury"
 description              : &description "Quantum theorist, interested in quantum simulations, algorithms and complexity. Currently a postdoc at University of Waterloo"
 url                      : https://anchowdhury89.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"

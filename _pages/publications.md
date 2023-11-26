@@ -11,7 +11,7 @@ Preprints
 ======
 
 {% for post in site.preprints reversed %}
-  1. {% include preprints-single.html %}
+  {% include preprints-single.html %}
 {% endfor %}
   
 <br/><br/>
@@ -20,7 +20,7 @@ Published articles
 ======
 
 {% for post in site.publications reversed %}
-  1. {% include publications-single.html %}
+   {% include publications-single.html %}
 {% endfor %}
 
 ***

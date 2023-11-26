@@ -18,7 +18,7 @@ Preprints
 ======
 
 {% for post in site.preprints reversed %}
-  {% include preprints-single.html %}
+  {% include publications-single.html %}
 {% endfor %}
 
 [arXiv page](https://arxiv.org/a/narayanchowdhury_a_1.html)

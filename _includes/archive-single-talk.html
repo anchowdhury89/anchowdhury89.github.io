@@ -14,7 +14,7 @@
 
 <strong>{{ post.venue }}</strong><br>
 <i> {{ title }} </i><br>
-<small><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i>&nbsp;{{post.location}}&emsp;{% if post.date %}<i class="fa fa-calendar" aria-hidden="true"></i>&nbsp;{{ post.date | date: '%B %d, %Y' }}{% endif %}&emsp;{% if post.video_url %}<a href="{{ post.video_url }}"><i class="fab fa fa-external-link" aria-hidden="true"></i>Recording</a>{% endif %}&emsp;{% if post.talk_url %}<a href="{{ post.talk_url }}"><i class="fa fa-fw fa-external-link" aria-hidden="true"></i> Webpage</a>{% endif %}</small>
+<small><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i>&nbsp;{{post.location}}&emsp;{% if post.date %}<i class="fa fa-calendar" aria-hidden="true"></i>&nbsp;{{ post.date | date: '%B %d, %Y' }}{% endif %}&emsp;{% if post.video_url %}<a href="{{ post.video_url }}"><i class="fab fa fa-external-link-alt" aria-hidden="true"></i>Recording</a>{% endif %}&emsp;{% if post.talk_url %}<a href="{{ post.talk_url }}"><i class="fa fa-fw fa-external-link" aria-hidden="true"></i> Webpage</a>{% endif %}</small>
 {% if post.excerpt %}
   <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
 {% endif %}

@@ -15,7 +15,7 @@
 {% if post.talk_url %}<strong>{{ post.venue }}</strong><a href="{{ post.talk_url }}"><i class="fa fa-external-link" aria-hidden="true"></i></a> 
 {% else %}<strong>{{ post.venue }}</strong>{% endif %}<br>
 <i> {{ title }} </i><br>
-<small>{{post.location}} {% if post.date %}<i class="fa fa-calendar" aria-hidden="true"></i>&emsp;{{ post.date | date: '%B %d, %Y' }}{% endif %}&emsp;<a href="{{ post.video_url }}"><i class="fab fa fa-external-link" aria-hidden="true"></i>Recording</a></small>
+<small>{{post.location}}&emsp;{% if post.date %}<i class="fa fa-calendar" aria-hidden="true"></i>{{ post.date | date: '%B %d, %Y' }}{% endif %}&emsp;{% if post.video_url %}<a href="{{ post.video_url }}"><i class="fab fa fa-external-link" aria-hidden="true"></i>Recording</a>{% endif %}</small>
 {% if post.excerpt %}
   <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
 {% endif %}

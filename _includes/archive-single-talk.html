@@ -12,40 +12,25 @@
   {% assign title = post.title %}
 {% endif %}
 
-<div class="{{ include.type | default: 'list' }}__item">
-  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-    {% if include.type == "grid" and teaser %}
-      <div class="archive__item-teaser">
-        <img src=
-          {% if teaser contains "://" %}
-            "{{ teaser }}"
-          {% else %}
-            "{{ teaser | prepend: "/images/" | prepend: base_path }}"
-          {% endif %}
-          alt="">
-      </div>
-    {% endif %}
-    <h3 class="archive__item-title" itemprop="headline">
-      {% if post.talk_url %}
-        <a href="{{ post.talk_url }}">{{ title }}</a> 
-      {% else %}
-        <a>{{ title }}</a>
-      {% endif %}
-    </h3>
-    {% if post.read_time %}
-      <p class="page__meta"><i class="fas fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
-    {% endif %}
-    {% if post.date %}
-      <p class="page__meta"><i class="fas fa-clock-o" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }}</p>
-    {% endif %}
-    {% if post.venue %}
-      <p class="archive__item" itemprop="description">{{ post.venue }},  {{post.location}} </p>
-    {% endif %}
-    {% if post.excerpt %}
-      <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
-    {% endif %}
-    {% if post.video_url %}
-      <p class="archive__item-excerpt" itemprop="description"><a href="{{ post.video_url }}">Link to video recording</a> </p>
-    {% endif %}
-  </article>
-</div>
+<h3 class="archive__item-title" itemprop="headline">
+  {% if post.talk_url %}
+    <a href="{{ post.talk_url }}">{{ title }}</a> 
+  {% else %}
+    <a>{{ title }}</a>
+  {% endif %}
+</h3>
+{% if post.read_time %}
+  <p class="page__meta"><i class="fas fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
+{% endif %}
+{% if post.date %}
+  <p class="page__meta"><i class="fas fa-clock-o" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }}</p>
+{% endif %}
+{% if post.venue %}
+  <p class="archive__item" itemprop="description">{{ post.venue }},  {{post.location}} </p>
+{% endif %}
+{% if post.excerpt %}
+  <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
+{% endif %}
+{% if post.video_url %}
+  <p class="archive__item-excerpt" itemprop="description"><a href="{{ post.video_url }}">Link to video recording</a> </p>
+{% endif %}

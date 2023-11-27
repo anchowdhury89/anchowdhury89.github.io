@@ -12,5 +12,9 @@
   {% assign title = post.title %}
 {% endif %}
 
-<strong>{{ title }}</strong><br>
-{% if post.collection == 'preprints' %} {{ post.authors }}<br><a href="{{ post.paperurl }}">{{ post.venue }} {{ post.details }}</a> ({{ post.year }}){% endif %}
+<div style="word-wrap: normal; max-width: 60ch;">
+  <p>
+    <strong>{{ title }}</strong><br>
+    {% if post.collection == 'preprints' %} {{ post.authors }}<br><a href="{{ post.paperurl }}">{{ post.venue }} {{ post.details }}</a> ({{ post.year }}){% endif %}
+  </p>
+</div>

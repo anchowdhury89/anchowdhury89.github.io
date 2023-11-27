@@ -12,7 +12,7 @@
   {% assign title = post.title %}
 {% endif %}
 
-<div style="word-wrap: normal; max-width: 60ch;">
+<div style="word-wrap: normal; max-width: 70ch;">
   <p>
     <strong>{{ title }}</strong><br>
     {% if post.collection == 'publications' %}{{ post.authors }} <br> <a href="{{ post.paperurl }}">{{ post.venue }} {{ post.volpages }}</a> ({{ post.year }}){% endif %}

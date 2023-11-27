@@ -12,14 +12,11 @@
   {% assign title = post.title %}
 {% endif %}
 
-{% if post.talk_url %}
-  <strong>{{ post.venue }}</strong><a href="{{ post.talk_url }}"><i class="fa fa-external-link" aria-hidden="true"></i></a> 
-{% else %}
-  <strong>{{ post.venue }}</strong>
-{% endif %}
+{% if post.talk_url %}<strong>{{ post.venue }}</strong><a href="{{ post.talk_url }}"><i class="fa fa-external-link" aria-hidden="true"></i></a> 
+{% else %}<strong>{{ post.venue }}</strong>{% endif %}<br>
 <i> {{ title }} </i><br>
-<small>{{post.location}}{% if post.date %}<i class="fa fa-calendar" aria-hidden="true"></i> {{ post.date }}{% endif %}</small>
-<p class="archive__item-excerpt" itemprop="description"><a href="{{ post.video_url }}"><i class="fab fa fa-external-link" aria-hidden="true"></i>Recording</a> </p>
+<small>{{post.location}} {% if post.date %}<i class="fa fa-calendar" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }}{% endif %}</small><br>
+<a href="{{ post.video_url }}"><i class="fab fa fa-external-link" aria-hidden="true"></i>Recording</a>
 {% if post.excerpt %}
   <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
 {% endif %}

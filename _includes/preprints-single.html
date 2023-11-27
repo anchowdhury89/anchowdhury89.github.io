@@ -13,6 +13,4 @@
 {% endif %}
 
 <strong>{{ title }}</strong>
-{% if post.collection == 'preprints' %}
-  {{ post.authors }} <br> <a href="{{ post.paperurl }}">{{ post.venue }} {{ post.details }}</a> ({{ post.year }})
-{% endif %}
+{% if post.collection == 'preprints' %} {{ post.authors }}<br><a href="{{ post.paperurl }}">{{ post.venue }} {{ post.details }}</a> ({{ post.year }}){% endif %}

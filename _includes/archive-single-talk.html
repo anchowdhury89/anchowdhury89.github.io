@@ -12,25 +12,20 @@
   {% assign title = post.title %}
 {% endif %}
 
-<h3 class="archive__item-title" itemprop="headline">
-  {% if post.talk_url %}
-    <a href="{{ post.talk_url }}">{{ title }}</a> 
-  {% else %}
-    <a>{{ title }}</a>
-  {% endif %}
-</h3>
-{% if post.read_time %}
-  <p class="page__meta"><i class="fas fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
+{% if post.talk_url %}
+  <strong>{{ title }}</strong><a href="{{ post.talk_url }}"><i class="fab fa fa-external-link" aria-hidden="true"></i></a> 
+{% else %}
+  <strong>{{ title }}</strong>
+{% endif %}
+{% if post.venue %}
+  <p> {{ post.venue }},  {{post.location}} </p>
 {% endif %}
 {% if post.date %}
   <p class="page__meta"><i class="fas fa-clock-o" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }}</p>
-{% endif %}
-{% if post.venue %}
-  <p class="archive__item" itemprop="description">{{ post.venue }},  {{post.location}} </p>
 {% endif %}
 {% if post.excerpt %}
   <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
 {% endif %}
 {% if post.video_url %}
-  <p class="archive__item-excerpt" itemprop="description"><a href="{{ post.video_url }}">Link to video recording</a> </p>
+  <p class="archive__item-excerpt" itemprop="description"><a href="{{ post.video_url }}"><i class="fab fa fa-external-link" aria-hidden="true"></i>Recording</a> </p>
 {% endif %}

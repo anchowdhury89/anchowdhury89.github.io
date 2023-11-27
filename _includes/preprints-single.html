@@ -12,5 +12,5 @@
   {% assign title = post.title %}
 {% endif %}
 
-<strong>{{ title }}</strong>
+<strong>{{ title }}</strong><br>
 {% if post.collection == 'preprints' %} {{ post.authors }}<br><a href="{{ post.paperurl }}">{{ post.venue }} {{ post.details }}</a> ({{ post.year }}){% endif %}

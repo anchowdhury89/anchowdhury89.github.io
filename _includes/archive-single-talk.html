@@ -13,19 +13,13 @@
 {% endif %}
 
 {% if post.talk_url %}
-  <strong>{{ title }}</strong><a href="{{ post.talk_url }}"><i class="fa fa-external-link" aria-hidden="true"></i></a> 
+  <strong>{{ post.venue }}</strong><a href="{{ post.talk_url }}"><i class="fa fa-external-link" aria-hidden="true"></i></a> 
 {% else %}
-  <strong>{{ title }}</strong>
+  <strong>{{ post.venue }}</strong>
 {% endif %}
-{% if post.venue %}
-  <p> {{ post.venue }},  {{post.location}} </p>
-{% endif %}
-{% if post.date %}
-  <p class="page__meta"><i class="fas fa-clock-o" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }}</p>
-{% endif %}
+<i> {{ title }} </i><br>
+<small>{{post.location}}{% if post.date %}<i class="fa fa-calendar" aria-hidden="true"></i> {{ post.date }}{% endif %}</small>
+<p class="archive__item-excerpt" itemprop="description"><a href="{{ post.video_url }}"><i class="fab fa fa-external-link" aria-hidden="true"></i>Recording</a> </p>
 {% if post.excerpt %}
   <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
-{% endif %}
-{% if post.video_url %}
-  <p class="archive__item-excerpt" itemprop="description"><a href="{{ post.video_url }}"><i class="fab fa fa-external-link" aria-hidden="true"></i>Recording</a> </p>
 {% endif %}

@@ -9,5 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-(last updated October, 2023) [Download](https://anchowdhury89.github.io/files/cv.pdf){: .btn .btn--info}
+(Last updated: October, 2023)    [Download](https://anchowdhury89.github.io/files/cv.pdf){: .btn .btn--info}
 <embed src="https://anchowdhury89.github.io/files/cv.pdf" type="application/pdf" />

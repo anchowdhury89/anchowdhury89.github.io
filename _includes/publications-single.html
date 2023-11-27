@@ -12,5 +12,7 @@
   {% assign title = post.title %}
 {% endif %}
 
+<p>
 <strong>{{ title }}</strong><br>
 {% if post.collection == 'publications' %}{{ post.authors }} <br> <a href="{{ post.paperurl }}">{{ post.venue }} {{ post.volpages }}</a> ({{ post.year }}){% endif %}
+</p>
